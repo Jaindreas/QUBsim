@@ -1,0 +1,248 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K2100M    (ID=0x11fc)
+    Vendor:   NVIDIA
+    VRAM:     1978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\609002580\desktop\QUBsim_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\609002580\desktop\QUBsim_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\609002580\desktop\QUBsim_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\609002580\desktop\QUBsim_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\609002580\desktop\QUBsim_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\609002580\desktop\QUBsim_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\609002580\desktop\QUBsim_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\609002580\desktop\QUBsim_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\609002580\desktop\QUBsim_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\609002580\desktop\QUBsim_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.201 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\609002580\desktop\QUBsim_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\609002580\desktop\QUBsim_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 268c -> priority: 1 
+  Thread -> id: 2ee0 -> priority: 1 
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.282113 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 903.
+Total: 1.350625 ms (FindLiveObjects: 0.119362 ms CreateObjectMapping: 0.153575 ms MarkObjects: 1.049177 ms  DeleteObjects: 0.026229 ms)
+
+-->The CD-RW was invented by Queens University.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->It can hold alot of data and cannot be broken.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->Tommorow I was you to draw data on these objects.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->This is the power Supply.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->It lives and breathes like you.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->This is the RAM.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->We all love the Ram.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->This is the Fan.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->The Fan is Grey.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->That's all I have to say.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->This is the crosspeice.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->The crosspeice is grey.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->This is the harddrive. 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->The harddrive is silver.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->Developed By Queens University.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->This is the Graphics Card.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->It was hard to Model.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at OnClick.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IOException: Sharing violation on path C:\Users\609002580\desktop\QUBsim_Data\puzzles.txt
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.OpenText () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileInfo:OpenText ()
+  at OnClick.ProcessFile (System.IO.FileInfo file) [0x00000] in <filename unknown>:0 
+  at OnClick.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IOException: Sharing violation on path C:\Users\609002580\desktop\QUBsim_Data\puzzles.txt
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.OpenText () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileInfo:OpenText ()
+  at OnClick.ProcessFile (System.IO.FileInfo file) [0x00000] in <filename unknown>:0 
+  at OnClick.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IOException: Sharing violation on path C:\Users\609002580\desktop\QUBsim_Data\puzzles.txt
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.OpenText () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileInfo:OpenText ()
+  at OnClick.ProcessFile (System.IO.FileInfo file) [0x00000] in <filename unknown>:0 
+  at OnClick.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GrabandDrop.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IOException: Sharing violation on path C:\Users\609002580\desktop\QUBsim_Data\puzzles.txt
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.OpenText () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileInfo:OpenText ()
+  at OnClick.ProcessFile (System.IO.FileInfo file) [0x00000] in <filename unknown>:0 
+  at OnClick.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IOException: Sharing violation on path C:\Users\609002580\desktop\QUBsim_Data\puzzles.txt
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.OpenText () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileInfo:OpenText ()
+  at OnClick.ProcessFile (System.IO.FileInfo file) [0x00000] in <filename unknown>:0 
+  at OnClick.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+-->The CD-RW was invented by Queens University.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->It can hold alot of data and cannot be broken.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->Tommorow I was you to draw data on these objects.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->This is the power Supply.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->It lives and breathes like you.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->This is the RAM.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->We all love the Ram.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->This is the Fan.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->The Fan is Grey.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->That's all I have to say.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->This is the crosspeice.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->The crosspeice is grey.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->This is the harddrive. 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->The harddrive is silver.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+-->Developed By Queens University.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+IOException: Sharing violation on path C:\Users\609002580\desktop\QUBsim_Data\graphics.txt
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.OpenText () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileInfo:OpenText ()
+  at OnClick.ProcessFile7 (System.IO.FileInfo file) [0x00000] in <filename unknown>:0 
+  at OnClick.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
